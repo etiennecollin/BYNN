@@ -1,3 +1,3 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/etiennecollin/root-tip-mitosis-ml/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+This webpage will contain information on the project.
