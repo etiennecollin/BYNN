@@ -1,0 +1,1 @@
+[Mitosis Stages](examples_of_mitosis_stages.jpg "Mitosis Stages")
