@@ -1,6 +1,3 @@
-# Source
-[https://github.com/wkentaro/labelme/tree/main/examples/instance_segmentation](https://github.com/wkentaro/labelme/tree/main/examples/instance_segmentation)
-
 # Instance Segmentation Example
 
 ## Annotation
@@ -18,3 +15,6 @@ labelme data_annotated --labels labels.txt --nodata --labelflags '{.*: [occluded
 #   - data_dataset_coco/annotations.json
 ./labelme2coco.py data_annotated data_dataset_coco --labels labels.txt
 ```
+
+# Source
+[https://github.com/wkentaro/labelme/tree/main/examples/instance_segmentation](https://github.com/wkentaro/labelme/tree/main/examples/instance_segmentation)
