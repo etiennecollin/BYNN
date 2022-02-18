@@ -1,3 +1,17 @@
+---
+layout: default
+title: How to use...
+parent: Support
+---
+
+# How to use...
+{: .no_toc .text-delta }
+- TOC
+{:toc}
+
+---
+
+# Data Labelling
 First, cd into this folder (or the folder containing the folder with your images):
 ```
 cd .../root-tip-mitosis-nn/src/data/
