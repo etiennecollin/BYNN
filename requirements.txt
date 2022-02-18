@@ -1,7 +1,0 @@
-tensorflow
-numpy
-pillow
-matplotlib
-pandas
-pymc3
-opencv-python

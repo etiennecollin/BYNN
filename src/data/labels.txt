@@ -1,3 +1,4 @@
+__ignore__
 anaphase
 interphase
 metaphase
