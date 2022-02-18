@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Navigation Structure
+nav_exclude: true
+search_exclude: true
 ---
 
 # Navigation Structure

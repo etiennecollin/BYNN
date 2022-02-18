@@ -6,17 +6,16 @@ parent: Support
 
 # Readme Files
 {: .no_toc }
-
 ## Table of contents
 {: .no_toc .text-delta }
-
 - TOC
 {:toc}
 
 ---
-# [labelme2coco](https://github.com/wkentaro/labelme/tree/main/examples/instance_segmentation)
-## Instance Segmentation Example {: .no_toc }
 
+# [labelme2coco](https://github.com/wkentaro/labelme/tree/main/examples/instance_segmentation)
+## Instance Segmentation Example
+{: .no_toc }
 ### Annotation
 {: .no_toc }
 ```bash
