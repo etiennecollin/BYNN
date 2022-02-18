@@ -1,8 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 
 title: Root Tip Mitosis AI
-description: This website will feature a tutorial on how to create an image detection neural network and associated
-resources.
+description: This website will feature a tutorial on how to create an image detection neural network and associated resources.
 
 # Set a path/url to a logo that will be displayed instead of the title
 # logo: "assets/just-the-docs.png"
