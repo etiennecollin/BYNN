@@ -2,7 +2,6 @@
 layout: default
 title: labelme2coco Readme
 parent: Support
-nav_order: 2
 ---
 
 # Instance Segmentation Example
