@@ -1,3 +1,10 @@
+---
+layout: default
+title: Support
+nav_order: 2
+has_children: true
+---
+
 # Interesting Websites
 1. [Colab Example of Object Detection in TF](https://github.com/tensorflow/hub/blob/master/examples/colab/tf2_object_detection.ipynb)
 2. [YOLOv3 in Keras](https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras)
