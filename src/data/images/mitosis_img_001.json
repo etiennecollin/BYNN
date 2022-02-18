@@ -1,0 +1,598 @@
+{
+  "shapes": [
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          94.37288135593221, 
+          19.491525423728813
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          123.18644067796612, 
+          22.033898305084747
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          157.5084745762712, 
+          22.033898305084747
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          212.5932203389831, 
+          21.186440677966104
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          253.27118644067798, 
+          54.237288135593225
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          222.7627118644068, 
+          66.10169491525424
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          166.40677966101697, 
+          57.20338983050848
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          255.81355932203394, 
+          9.745762711864407
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          304.96610169491527, 
+          45.33898305084746
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          380.81355932203394, 
+          60.59322033898305
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          349.0338983050848, 
+          66.94915254237289
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          355.3898305084746, 
+          25.847457627118647
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          355.81355932203394, 
+          2.5423728813559325
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          401.1525423728814, 
+          7.203389830508475
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          427.0, 
+          15.254237288135593
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          468.9491525423729, 
+          8.05084745762712
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          521.4915254237288, 
+          5.084745762711865
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          636.7457627118645, 
+          23.305084745762713
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          641.8305084745763, 
+          3.3898305084745766
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          699.8813559322034, 
+          16.949152542372882
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          720.6440677966102, 
+          30.084745762711865
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          715.135593220339, 
+          78.38983050847457
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          740.5593220338983, 
+          102.54237288135593
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          727.8474576271187, 
+          141.52542372881356
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          674.8813559322034, 
+          97.45762711864407
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          647.7627118644068, 
+          51.694915254237294
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          592.677966101695, 
+          79.66101694915254
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          610.4745762711865, 
+          104.66101694915255
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          641.406779661017, 
+          129.23728813559322
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          643.9491525423729, 
+          178.38983050847457
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          715.9830508474577, 
+          170.76271186440678
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          544.3728813559322, 
+          143.22033898305085
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          564.7118644067797, 
+          100.0
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          538.4406779661017, 
+          72.88135593220339
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          536.3220338983051, 
+          31.779661016949156
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          577.8474576271187, 
+          27.118644067796613
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          477.84745762711873, 
+          75.84745762711864
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          434.6271186440679, 
+          46.610169491525426
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          424.8813559322034, 
+          80.5084745762712
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          390.98305084745766, 
+          94.0677966101695
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          346.49152542372883, 
+          100.42372881355932
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          296.49152542372883, 
+          100.0
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          262.5932203389831, 
+          116.52542372881356
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          241.40677966101697, 
+          139.40677966101697
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          201.5762711864407, 
+          99.57627118644068
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          163.4406779661017, 
+          87.28813559322035
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          128.27118644067798, 
+          87.28813559322035
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          103.27118644067798, 
+          68.22033898305085
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }, 
+    {
+      "shape_type": "point", 
+      "points": [
+        [
+          85.47457627118646, 
+          48.728813559322035
+        ]
+      ], 
+      "flags": {}, 
+      "group_id": null, 
+      "label": "interphase"
+    }
+  ], 
+  "imagePath": "mitosis_img_001.jpg", 
+  "flags": {}, 
+  "version": "4.6.0", 
+  "imageData": null, 
+  "imageWidth": 750, 
+  "imageHeight": 562
+}

@@ -1,6 +1,5 @@
 numpy
-torch
 pandas
-PIL
+pillow
 tqdm
 matplotlib
