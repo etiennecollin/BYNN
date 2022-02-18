@@ -1,7 +1,8 @@
 ---
 layout: default
 title: labelme2coco Readme
-parent: Support
+parent: Readme Files
+grand_parent: Support
 ---
 
 # Instance Segmentation Example
