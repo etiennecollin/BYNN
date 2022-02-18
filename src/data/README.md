@@ -1,6 +1,6 @@
 First, cd into this folder:
 ```
-cd .../root-tip-mitosis-ml/src/data/
+cd .../root-tip-mitosis-nn/src/data/
 ```
 
 For correct label indexing, use following command to launch labelme:
