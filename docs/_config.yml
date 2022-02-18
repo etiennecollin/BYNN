@@ -1,6 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
 
-title: Root Tip Mitosis AI
+title: Root Tip Mitosis NN
 description: This website will feature a tutorial on how to create an image detection neural network and associated resources.
 baseurl: "/root-tip-mitosis-nn" # the subpath of your site, e.g. /blog
 url: "https://etiennecollin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -38,11 +38,11 @@ search:
 
 # Aux links for the upper right navigation
 aux_links:
-  "Root Tip Mitosis AI on GitHub":
-    - "https://github.com/etiennecollin/root-tip-mitosis-ai"
+  "Root Tip Mitosis NN on GitHub":
+    - "https://github.com/etiennecollin/root-tip-mitosis-nn"
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+aux_links_new_tab: true
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page.
