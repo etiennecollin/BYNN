@@ -1,5 +1,7 @@
+# ==============================================================================
+# Source https://github.com/wkentaro/labelme/tree/main/examples/instance_segmentation
+# ==============================================================================
 #!/usr/bin/env python
-
 import argparse
 import collections
 import datetime
