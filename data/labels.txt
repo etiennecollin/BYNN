@@ -1,0 +1,5 @@
+anaphase
+interphase
+metaphase
+prophase
+telophase
