@@ -6,6 +6,7 @@ from torchvision import transforms, datasets
 import matplotlib.pyplot as plt
 import json
 import torch.nn.functional as F
+from zmq import device
 
 def importTarget(filepath, scale = 0.25, side = 32):
     with open(filepath, "r") as read_file:
@@ -29,4 +30,22 @@ def cellCount(map):
 
 def importPicture(path):
     img = Image.open(path).convert("L").resize((756, 1008))
-    return transforms.ToTensor()(img)
+    img = transforms.ToTensor()(img)
+    return F.pad(img, pad=(16, 16 ,16 ,16), value=0)
+
+def partition(image, size = 32):
+    t_images = torch.empty(1008*756, 32, 32)
+    for i in tqdm(range(image.shape[1]-size)):
+        for k in (range(image.shape[2]-size)):
+            t_images[k + 756 * i] = transforms.functional.crop(image, i, k, size, size)
+    return t_images
+
+'''
+def partition(image, size = 32, device = "cuda"):
+    t_images = torch.empty((0, size, size)).to(device)
+    for i in tqdm(range(image.shape[1]-size)):
+        for k in (range(image.shape[2]-size)):
+            t_images = torch.cat((t_images, transforms.functional.crop(image, k, i, size, size)), axis = 0)
+
+    return t_images
+'''
