@@ -1,4 +1,8 @@
-tensorflow
+ipykernel
 numpy
 pillow
+pandas
+scipy
+scikit-learn
+tensorflow-gpu
 matplotlib
