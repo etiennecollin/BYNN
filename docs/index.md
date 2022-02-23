@@ -6,7 +6,7 @@ description: "Welcome to the Root Tip Mitosis Neural Network Project Page"
 permalink: /
 ---
 
-# Welcome
+# Welcome to BYNN
 **Welcome to the Build Your Neural Network (BYNN) project, for students, by students.**
 
 This project started with the idea to introduce neural networks, artificial intelligence, to students. For those who are
