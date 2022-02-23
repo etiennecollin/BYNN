@@ -1,7 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 
-title: Root Tip Mitosis NN
-description: This website will feature a tutorial on how to create an image detection neural network and associated resources.
+title: Build Your NN
+description: Welcome to the Build Your Neural Network Project!
 baseurl: "/root-tip-mitosis-nn" # the subpath of your site, e.g. /blog
 url: "https://etiennecollin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
