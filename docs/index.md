@@ -12,7 +12,7 @@ permalink: /
 This project started with the idea to introduce neural networks, artificial intelligence, to students. For those who are
 not familiar with artificial intelligence, the concept may be intimidating; how can my computer learn how to do certain
 tasks by itself and help me doing them? The goal of this project is to make this technology accessible and show how it
-may be used to optimize and speed-up processes, lose less time doing repetitive tasks and validate manually-found data.
+may be used to optimize and speedup processes, lose less time doing repetitive tasks and validate manually found data.
 
 By following this tutorial, you will learn how to program an image detection neural network that detects different
 objects and counts them. Of course, with little tweaks, one could do many other things with the model. Feel free to fork
@@ -31,7 +31,7 @@ Essentially, this is what you will learn:
 # How will I learn?
 This website describes the creation of a neural network that counts
 [*Glycine Max*](https://en.wikipedia.org/wiki/Soybean) soy bean root tip cells and, for each cell on the picture,
-determines their mitosis[^mitosis] stage. By the end of this project and with the explainations supporting the code, you
+determines their mitosis[^mitosis] stage. By the end of this project and with the explanations supporting the code, you
 will learn how to create your own neural network and should be able to adapt the code to create your own neural network
 or simply train it using another image dataset.
 
