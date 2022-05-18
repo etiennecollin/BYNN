@@ -1,12 +1,9 @@
 import torch
-import numpy as np
 from PIL import Image
 from tqdm import tqdm
-from torchvision import transforms, datasets
-import matplotlib.pyplot as plt
+from torchvision import transforms
 import json
 import torch.nn.functional as F
-from zmq import device
 
 
 def importTarget(filepath, scale=0.25, side=32):
@@ -33,6 +30,7 @@ def cellCount(map):
 
 
 def importPicture(path):
+    """Import the list of pictures."""
     img = Image.open(path).convert("L").resize((756, 1008))
     img = transforms.ToTensor()(img)
     return F.pad(img, pad=(16, 16, 16, 16), value=0)
