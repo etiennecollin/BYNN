@@ -1,9 +1,7 @@
 import torch
-import numpy as np
 from PIL import Image
 from tqdm import tqdm
-from torchvision import transforms, datasets
-import matplotlib.pyplot as plt
+from torchvision import transforms
 import json
 import torch.nn.functional as F
 
