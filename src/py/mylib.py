@@ -6,19 +6,19 @@ import json
 import torch.nn.functional as F
 
 targetPaths = [
-    "..\data\images\mitosis_img_007.json",
-    "..\data\images\mitosis_img_008.json",
-    "..\data\images\mitosis_img_011.json",
-    "..\data\images\mitosis_img_014.json",
-    "..\data\images\mitosis_img_044.json",
+    "../data/images/mitosis_img_007.json",
+    "../data/images/mitosis_img_008.json",
+    "../data/images/mitosis_img_011.json",
+    "../data/images/mitosis_img_014.json",
+    "../data/images/mitosis_img_044.json",
 ]
 
 imagePaths = [
-    "..\data\images\mitosis_img_007.jpg",
-    "..\data\images\mitosis_img_008.jpg",
-    "..\data\images\mitosis_img_011.jpg",
-    "..\data\images\mitosis_img_014.jpg",
-    "..\data\images\mitosis_img_044.jpg",
+    "../data/images/mitosis_img_008.jpg",
+    "../data/images/mitosis_img_008.jpg",
+    "../data/images/mitosis_img_011.jpg",
+    "../data/images/mitosis_img_014.jpg",
+    "../data/images/mitosis_img_044.jpg",
 ]
 
 
@@ -44,6 +44,7 @@ def cellCount(map):
     return torch.sum(map)/(1024)
 
 def importPicture(path):
+    """Import list of pictures."""
     img = Image.open(path).convert("L").resize((756, 1008))
     img = transforms.ToTensor()(img)
     return F.pad(img, pad=(16, 16 ,16 ,16), value=0)
