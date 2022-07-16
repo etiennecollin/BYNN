@@ -1,8 +1,8 @@
 remote_theme: pmarsceill/just-the-docs
 
-title: Build Your NN
+title: BYNN
 description: Welcome to the Build Your Neural Network Project!
-baseurl: "/build-your-nn" # the subpath of your site, e.g. /blog
+baseurl: "/bynn" # the subpath of your site, e.g. /blog
 url: "https://etiennecollin.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Set a path/url to a logo that will be displayed instead of the title
@@ -38,7 +38,7 @@ search:
 
 # Aux links for the upper right navigation
 aux_links:
-  "Build Your NN on GitHub":
+  "BYNN on GitHub":
     - "https://github.com/etiennecollin/build-your-nn"
 
 # Makes Aux links open in a new tab. Default is false
