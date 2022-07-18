@@ -8,7 +8,7 @@ url: "https://etiennecollin.com" # the base hostname & protocol for your site, e
 permalink: pretty
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "assets/images/cs_bynn_large.jpg"
+# logo: "assets/images/cs_bynn_large.jpg"
 
 # Enable or disable the site search
 # Supports true (default) or false
