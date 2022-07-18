@@ -5,25 +5,37 @@ parent: Support
 ---
 
 # Readme Files
+
 {: .no_toc }
+
 ## Table of contents
+
 {: .no_toc .text-delta }
-- TOC
-{:toc}
+
+-   TOC
+    {:toc}
 
 ---
 
 # [labelme2coco](https://github.com/wkentaro/labelme/tree/main/examples/instance_segmentation)
+
 ## Instance Segmentation Example
+
 {: .no_toc }
+
 ### Annotation
+
 {: .no_toc }
+
 ```bash
 labelme data_annotated --labels labels.txt --nodata --validatelabel exact --config '{shift_auto_shape_color: -2}'
 labelme data_annotated --labels labels.txt --nodata --labelflags '{.*: [occluded, truncated], person: [male]}'
 ```
+
 ### Convert to COCO-format Dataset
+
 {: .no_toc }
+
 ```bash
 # It generates:
 #   - data_dataset_coco/JPEGImages
@@ -32,8 +44,11 @@ labelme data_annotated --labels labels.txt --nodata --labelflags '{.*: [occluded
 ```
 
 # [create_coco_tf_record](https://github.com/tensorflow/models/tree/master/research/object_detection/dataset_tools)
+
 ## Example usage:
+
 {: .no_toc }
+
 ```bash
 python create_coco_tf_record.py --logtostderr \
 	--train_image_dir="${TRAIN_IMAGE_DIR}" \

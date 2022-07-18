@@ -6,4 +6,5 @@ permalink: /docs/support
 ---
 
 # Support
+
 This section contains resources.
