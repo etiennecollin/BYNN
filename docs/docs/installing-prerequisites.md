@@ -8,10 +8,14 @@ permalink: /installing-prerequisites
 
 # Installing the Prerequisites
 
+This section will guide you through installing the various pre-requisites of the BYNN project.
+
+## Table of contents
+
 {: .no_toc .text-delta }
 
--   TOC
-    {:toc}
+1. TOC
+   {:toc}
 
 ---
 

@@ -10,8 +10,8 @@ permalink: /what-is-a-nn
 
 {: .no_toc .text-delta }
 
--   TOC
-    {:toc}
+1. TOC
+   {:toc}
 
 ---
 
