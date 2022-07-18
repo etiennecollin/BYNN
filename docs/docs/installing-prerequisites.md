@@ -3,21 +3,20 @@ layout: default
 title: Installing the Prerequisites
 nav_order: 3
 description:
-permalink: /installing-prerequisites
 ---
 
 # Installing the Prerequisites
 
 This section will guide you through installing the various pre-requisites of the BYNN project.
 
-## Table of contents
-
-{: .no_toc .text-delta }
-
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
 1. TOC
-   {:toc}
-
----
+{:toc}
+</details>
 
 ## Python
 

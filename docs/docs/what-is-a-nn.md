@@ -3,17 +3,18 @@ layout: default
 title: What is a Neural Network?
 nav_order: 2
 description:
-permalink: /what-is-a-nn
 ---
 
 # What is a Neural Network?
 
-{: .no_toc .text-delta }
-
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
 1. TOC
-   {:toc}
-
----
+{:toc}
+</details>
 
 ## Artificial Intelligence?
 
@@ -32,6 +33,8 @@ Here is a very simplified example of how a neural network that identifies cats a
 3. The computer learns what constitutes a dog and a cat in terms of numbers by analyzing the images
     - Imagine each image as black and white, and as being constituted of pixels each with a value between 0 and 1; 0 is black and 1 is white.[^bw] The computer, in a way, tries to determine what arrangement of numerical values constitues a dog versus a cat.
 4. Once trained, the computer should be able to identify a dog or a cat in a picture even if the latter has never been seen before by the computer.
+
+---
 
 [^concept]: The same concepts will be applied in the BYNN tutorial. The difference with the example is that, in this tutorial, each picture will contain multiple objects.
 [^bw]: This will be important further in the tutorial
