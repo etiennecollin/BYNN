@@ -20,7 +20,7 @@ description:
 
 Artificial intelligence describes the field where computers are programmed to learn and that neural network are a subfield of the former. In fact, in contrast to traditional programming where a computer is instructed what to do with a specific input, in artificial intelligence, the computer is instructed to learn the relationship between an input and an expected output. Eventually, the computer is able to interpret an input it has never seen before and give an output.
 
-## Objects
+## What are objects?
 
 Objects are what is being analyzed by the neural network. In our case, a neural network will be used to identify the mitosis stage of multiple cells in a picture; the cells are the objects.
 
