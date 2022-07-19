@@ -10,7 +10,7 @@ permalink: /
 
 **Welcome to the Build Your Neural Network (BYNN) project, for students, by students.**
 
-![bynn_logo.jpg](/banner.jpg)
+![banner.jpg](/banner.jpg)
 
 This project started with the idea to introduce neural networks, artificial intelligence, to students. For those who are
 not familiar with artificial intelligence, the concept may be intimidating; how can my computer learn how to do certain
