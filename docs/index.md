@@ -39,4 +39,6 @@ determines their mitosis[^mitosis] stage. By the end of this project and with th
 will learn how to create your own neural network and should be able to adapt the code to create your own neural network
 or simply train it using another image dataset.
 
+---
+
 [^mitosis]: A process by which cells are duplicated for growth in organisms
