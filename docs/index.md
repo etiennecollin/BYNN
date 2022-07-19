@@ -10,7 +10,7 @@ permalink: /
 
 **Welcome to the Build Your Neural Network (BYNN) project, for students, by students.**
 
-![bynn_logo.jpg](/assets/images/bynn_logo.jpg)
+![bynn_logo.jpg](/banner.jpg)
 
 This project started with the idea to introduce neural networks, artificial intelligence, to students. For those who are
 not familiar with artificial intelligence, the concept may be intimidating; how can my computer learn how to do certain
@@ -28,7 +28,7 @@ Essentially, this is what you will learn:
 1. What a neural network is, explained simply.
 2. How to install the required software to create your own training dataset and your own neural network.
 3. How to label your own data using [Labelme](https://github.com/wkentaro/labelme).
-4. How to build your own image detection neural network using [PyTorch](https://pytorch.org/) and train it on your own images.
+4. How to build your own image detection neural network using [YOLOv5](https://github.com/ultralytics/yolov5) ([PyTorch](https://pytorch.org/)) and train it on your own images.
 5. How to optimize your network and use it.
 
 # How will I learn?
