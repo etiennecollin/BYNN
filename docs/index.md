@@ -35,7 +35,7 @@ Essentially, this is what you will learn:
 
 This website describes the creation of a neural network that counts
 [_Glycine Max_](https://en.wikipedia.org/wiki/Soybean) soy bean root tip cells and, for each cell on the picture,
-determines their mitosis[^mitosis] stage. By the end of this project and with the explainations supporting the code, you
+determines their mitosis[^mitosis] stage. By the end of this project and with the explanations supporting the code, you
 will learn how to create your own neural network and should be able to adapt the code to create your own neural network
 or simply train it using another image dataset.
 
