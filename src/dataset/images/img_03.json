@@ -1,0 +1,522 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "prophase",
+      "points": [
+        [
+          1114.4444444444443,
+          1016.6666666666666
+        ],
+        [
+          1231.111111111111,
+          1174.4444444444443
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "prophase",
+      "points": [
+        [
+          648.8888888888889,
+          777.7777777777777
+        ],
+        [
+          750.0,
+          941.1111111111111
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "prophase",
+      "points": [
+        [
+          907.7777777777777,
+          144.44444444444443
+        ],
+        [
+          1035.5555555555554,
+          303.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "prophase",
+      "points": [
+        [
+          1577.7777777777778,
+          156.66666666666666
+        ],
+        [
+          1710.0,
+          347.77777777777777
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "prophase",
+      "points": [
+        [
+          733.3333333333334,
+          494.44444444444446
+        ],
+        [
+          827.7777777777777,
+          612.2222222222222
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "prophase",
+      "points": [
+        [
+          642.2222222222222,
+          574.4444444444445
+        ],
+        [
+          731.1111111111111,
+          693.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "prophase",
+      "points": [
+        [
+          288.88888888888886,
+          1050.0
+        ],
+        [
+          413.3333333333333,
+          1173.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "prophase",
+      "points": [
+        [
+          134.44444444444443,
+          972.2222222222222
+        ],
+        [
+          214.44444444444443,
+          1182.2222222222222
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "prophase",
+      "points": [
+        [
+          943.3333333333333,
+          2116.6666666666665
+        ],
+        [
+          1086.6666666666667,
+          2233.3333333333335
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "prophase",
+      "points": [
+        [
+          1086.6666666666667,
+          2027.7777777777778
+        ],
+        [
+          1245.5555555555554,
+          2125.5555555555557
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "prophase",
+      "points": [
+        [
+          2000.0,
+          866.6666666666666
+        ],
+        [
+          2115.5555555555557,
+          993.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "prophase",
+      "points": [
+        [
+          2365.5555555555557,
+          784.4444444444445
+        ],
+        [
+          2453.3333333333335,
+          900.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "anaphase",
+      "points": [
+        [
+          474.44444444444446,
+          1631.111111111111
+        ],
+        [
+          324.44444444444446,
+          1805.5555555555554
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "anaphase",
+      "points": [
+        [
+          805.5555555555555,
+          1660.0
+        ],
+        [
+          640.0,
+          1820.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "anaphase",
+      "points": [
+        [
+          2145.945945945946,
+          2086.4864864864862
+        ],
+        [
+          2293.6936936936936,
+          2247.7477477477473
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "prophase",
+      "points": [
+        [
+          2021.6216216216214,
+          2063.063063063063
+        ],
+        [
+          1963.0630630630628,
+          2164.8648648648646
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "interphase",
+      "points": [
+        [
+          690.9909909909909,
+          995.4954954954954
+        ],
+        [
+          779.2792792792792,
+          1105.4054054054054
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "interphase",
+      "points": [
+        [
+          1065.7657657657658,
+          592.7927927927927
+        ],
+        [
+          1174.7747747747746,
+          674.7747747747748
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "interphase",
+      "points": [
+        [
+          1190.990990990991,
+          527.9279279279278
+        ],
+        [
+          1309.0090090090089,
+          617.1171171171171
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "interphase",
+      "points": [
+        [
+          1660.3603603603601,
+          430.6306306306306
+        ],
+        [
+          1754.054054054054,
+          326.1261261261261
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "interphase",
+      "points": [
+        [
+          1666.6666666666665,
+          438.7387387387387
+        ],
+        [
+          1755.8558558558557,
+          543.2432432432432
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "interphase",
+      "points": [
+        [
+          1827.0270270270269,
+          611.7117117117117
+        ],
+        [
+          1727.0270270270269,
+          502.70270270270265
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "interphase",
+      "points": [
+        [
+          1064.8648648648648,
+          281.08108108108104
+        ],
+        [
+          1182.8828828828828,
+          390.09009009009003
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "interphase",
+      "points": [
+        [
+          910.8108108108107,
+          620.7207207207207
+        ],
+        [
+          1008.108108108108,
+          740.5405405405405
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "interphase",
+      "points": [
+        [
+          445.045045045045,
+          1101.8018018018017
+        ],
+        [
+          576.5765765765765,
+          1207.2072072072071
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "interphase",
+      "points": [
+        [
+          1241.4414414414414,
+          2236.036036036036
+        ],
+        [
+          1127.0270270270269,
+          2166.6666666666665
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "interphase",
+      "points": [
+        [
+          1627.9279279279278,
+          2140.5405405405404
+        ],
+        [
+          1725.2252252252251,
+          2230.6306306306305
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "prophase",
+      "points": [
+        [
+          2512.6126126126123,
+          1346.8468468468468
+        ],
+        [
+          2654.0540540540537,
+          1481.9819819819818
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "prophase",
+      "points": [
+        [
+          2475.6756756756754,
+          1206.3063063063062
+        ],
+        [
+          2638.7387387387384,
+          1318.9189189189187
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "interphase",
+      "points": [
+        [
+          1525.2252252252251,
+          1292.7927927927926
+        ],
+        [
+          1605.4054054054052,
+          1412.6126126126126
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "interphase",
+      "points": [
+        [
+          1138.7387387387387,
+          1331.5315315315315
+        ],
+        [
+          1230.6306306306305,
+          1414.4144144144143
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "interphase",
+      "points": [
+        [
+          990.9909909909909,
+          700.9009009009009
+        ],
+        [
+          1118.018018018018,
+          803.6036036036036
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_03.jpeg",
+  "imageData": null,
+  "imageHeight": 2784,
+  "imageWidth": 2721
+}
