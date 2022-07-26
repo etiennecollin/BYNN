@@ -10,4 +10,4 @@ By following this tutorial, you will learn how to program an image detection neu
 objects and counts them. Of course, with little tweaks, one could do many other things with the model. Feel free to fork
 the project and share your own neural network.
 
-## For more information, visit our [website](https://etiennecollin.github.io/build-your-nn/)!
+## For more information, visit our [website](https://etiennecollin.com/bynn/)!
