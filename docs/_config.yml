@@ -4,11 +4,8 @@ title: BYNN
 description: Welcome to the Build Your Neural Network Project!
 baseurl: "/bynn" # the subpath of your site, e.g. /blog
 url: "https://etiennecollin.com" # the base hostname & protocol for your site, e.g. http://example.com
-
 permalink: pretty
-
-# Set a path/url to a logo that will be displayed instead of the title
-# logo: "assets/images/cs_bynn_large.jpg"
+color_scheme: light
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -38,31 +35,25 @@ search:
   button: false
 
 # Aux links for the upper right navigation
+aux_links_new_tab: true
 aux_links:
   "BYNN on GitHub":
     - "https://github.com/etiennecollin/bynn"
 
-# Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: true
-
-# Heading anchor links appear on hover over h1-h6 tags in page content
-# allowing users to deep link to a particular heading on a page.
-# Supports true (default) or false
+# Heading anchor links appear on hover over h1-h6 tags in page content allowing users to deep link to a particular heading on a page.
 heading_anchors: true
 
 # Sort order for navigation links
-# nav_sort: case_insensitive # default, equivalent to nil
-nav_sort: case_sensitive # Capital letters sorted before lowercase
+nav_sort: case_insensitive
 
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
 
-# footer_content: "Copyright &copy; 2022 Etienne Collin. Distributed under MIT license."
-
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+footer_content: "Copyright &copy; 2022 Etienne Collin. Distributed under GPL-3.0 license."
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: false # show or hide edit this page link
@@ -72,8 +63,8 @@ gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
-# Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
-color_scheme: light
+# Set a path/url to a logo that will be displayed instead of the title
+# logo: "assets/images/cs_bynn_large.jpg"
 
 plugins:
   - jekyll-seo-tag
