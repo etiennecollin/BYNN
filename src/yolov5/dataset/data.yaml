@@ -1,0 +1,9 @@
+names:
+- anaphase
+- interphase
+- metaphase
+- prophase
+- telophase
+nc: 5
+train: dataset/train/images
+val: dataset/valid/images
