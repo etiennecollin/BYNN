@@ -6,7 +6,8 @@ parent: Support
 
 # LabelME Configuration File Example
 
-This is how our `~/.labelmerc` file was setup to label the images for the mitosis neural network. If you want, you may replace the content of your own `~/.labelmerc` with the following code:
+This is how our `~/.labelmerc` file was setup to label the images for the mitosis neural network.
+If you want, you may replace the content of your own `~./labelmerc` with the following code:
 
 ```YAML
 auto_save: true
