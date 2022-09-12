@@ -10,10 +10,10 @@ description:
 This section will guide you through installing the various prerequisites of the BYNN project.
 
 <details open markdown="block">
-	<summary>
-		Table of contents
-	</summary>
-		{: .text-delta }
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
 1. TOC
 {:toc}
 </details>
