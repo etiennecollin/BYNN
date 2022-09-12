@@ -42,7 +42,6 @@ Once Anaconda is installed, we will create an environment for the BYNN project. 
 
 ```
 conda create -n <name> python=<version>
-
 ```
 
 The argument `<name>` specifies the name of the environment and the `<version>` tag specifies the version of Python we wish to use.
