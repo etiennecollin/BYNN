@@ -86,5 +86,5 @@ The first line will clone (download) the github repository of the project on you
 
 ---
 
-[^condasupport]: All of the information provided in this subsection is taken from the [official conda documentation](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
-[^yolov5support]: All of the information provided in this subsection is taken from the [official YOLOv5 github README page](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
+[^condasupport]: All of the information provided in this subsection is taken from the official [conda documentation](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
+[^yolov5support]: All of the information provided in this subsection is taken from the official [YOLOv5 README](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
