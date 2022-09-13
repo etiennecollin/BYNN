@@ -82,7 +82,12 @@ The first line will clone (download) the github repository of the project on you
 
 Similarly to children, computers have to learn what an object is to gain the ability to identify it in any environment. In the case of this tutorial, that means teaching the computer what a cell in each stage of mitosis looks like. That is, we need to provide _ground truth_ to our neural network so that it knows what each cell should look like. In another project, ground truth could be what a dog looks like versus a cat.
 
-This teaching will be achieved through the annotation of images. Put simply, with a computer, we will have to manually identify the objects we wish to detect with the neural network. Two tools to identify the objects are presented here. Both of them are simple and free to use which is why they were chosen amongst others. The first one, Roboflow, is an online platform that allows the user to label objects on their images and format their labels. The second one, LabelMe, is an open-source software that is downloaded and may be used offline. That said, LabelMe requires some tinkering to get the labels in the right format and does not provide the ability to perform other actions on the dataset. This is why, although LabelMe could be used to follow this tutorial, Roboflow will be used for its simplicity of use. A link to LabelMe will still be provided.
+This teaching will be achieved through the annotation of images. Put simply, with a computer, we will have to manually identify the objects we wish to detect with the neural network. Two tools to identify the objects are presented here. Both of them are simple and free to use which is why they were chosen amongst others.
+
+1. The first one, Roboflow, is an online platform that allows the user to label objects on their images and format their labels.
+2. The second one, LabelMe, is an open-source software that is downloaded and may be used offline.
+
+That said, LabelMe requires some tinkering to get the labels in the right format and does not provide the ability to perform other actions on the dataset. This is why, although LabelMe could be used to follow this tutorial, Roboflow will be used for its simplicity of use. A link to LabelMe will still be provided.
 
 ### Roboflow
 
