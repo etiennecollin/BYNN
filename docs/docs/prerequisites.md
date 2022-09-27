@@ -91,9 +91,24 @@ That said, LabelMe requires some tinkering to get the labels in the right format
 
 ### Roboflow
 
+Here are the steps required to use Roboflow with a free account:
+
+1. Go to [app.roboflow.com](https://app.roboflow.com/login) and login or create an account.
+2. On the projects tab, click on the "+ Add Workspace" button and follow the setup steps.
+    - A Community workspace type is fine for this project. It creates a **free** but **public** project.
+    - In the case of this tutorial, the workspace will be named BYNN.
+3. Create a new project inside the workspace by clicking on "Create New Project". Follow the steps for the creation process:
+    1. Click the "Skip Tutorial" button.
+    2. Select a project name (BYNN in our case).
+    3. Select a licence for the Roboflow project (MIT in our case).
+    4. For the project type, select "Object Detection (Bounding Boxes)".
+    5. Decide what your model will predict (cells in our case).
+
+That's it! Your Roboflow account is setup and ready for your project. Continue with the next steps!
+
 ### LabelMe
 
----
+Here is a link to the LabelMe Github repository for the ones whishing to use it throughout this tutorial: [https://github.com/wkentaro/labelme#installation](https://github.com/wkentaro/labelme#installation)
 
 [^condasupport]: All of the information provided in this subsection is taken from the official [conda documentation](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
 [^yolov5support]: All of the information provided in this subsection is taken from the official [YOLOv5 README](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
