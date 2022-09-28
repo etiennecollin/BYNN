@@ -18,6 +18,14 @@ This section will guide you through installing the various prerequisites of the 
 {:toc}
 </details>
 
+## Images
+
+First and foremost, to create an object detection neural network, you will need images of the objects you wish to detect with your model... many images. Usually, the best the best accuracy of a model is obtained by using 1000s of images. In our case, we will use around 100 images, but each image often contains more than 300 instances of the object we wish to detect, cells.
+
+Try to select images that are sharp and that show the object in the environment in which it will be detected by the model. Make sure that various type of the object are evenly represented throughout the image dataset. That is, if the objects you wish to detect are dogs, make sure to include images of dogs from various breeds so that the model learns the general concept of what a dog looks like and not only what a specific breed looks like.
+
+These images may be placed in a folder for now. They will be processed further down the tutorial.
+
 ## Python
 
 First, let's install Python. Python is the programming language we are going to use throughout this tutorial and is widely used in the scientific community for its various and incredibly useful packages. Although Python is pre-installed on many systems, this pre-installed version is often outdated. Hence, we will install a more recent version. The simplest way to do so is by going to the [Python.org download page](https://www.python.org/downloads/) to download the latest version. You may click the following link and follow the install process for your OS (Operating System):
