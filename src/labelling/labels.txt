@@ -1,6 +1,0 @@
-__ignore__
-anaphase
-interphase
-metaphase
-prophase
-telophase
